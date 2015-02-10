@@ -1,0 +1,18 @@
+<resources>
+    <declare-styleable name="ymlab">
+        <attr name="ym_base_orientation" format="enum">
+            <enum name="portrait" value="0"/>
+            <enum name="landscape" value="1"/>
+        </attr>
+        <attr name="ym_base_width" format="integer"/>
+        <attr name="ym_base_height" format="integer"/>
+        <attr name="ym_scale_factor" format="float"/>
+        <attr name="ym_width" format="float"/>
+        <attr name="ym_height" format="float"/>
+        <attr name="ym_top" format="float"/>
+        <attr name="ym_left" format="float"/>
+        <attr name="ym_mergin_top" format="float"/>
+        <attr name="ym_mergin_bottom" format="float"/>
+        <attr name="ym_font_size" format="float"/>
+    </declare-styleable>
+</resources>
